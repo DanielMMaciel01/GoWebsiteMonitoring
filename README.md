@@ -1,2 +1,4 @@
 # GoWebsiteMonitoring
-Aplicação com o objetivo de Monitorar Sites.
+Application with the purpose of Monitoring Websites.
+
+This application uses GoLang as programming language.
